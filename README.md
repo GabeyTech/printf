@@ -1,1 +1,1 @@
-This project was done by blessed and friday
+This project was done by Friday Blessed and Gabriel Tibi
