@@ -1,6 +1,6 @@
 # Printf
 ``` c
-This project was done by Friday Blessed & Gabriel Tibi
+This project was done by Gabriel Tibi & Friday Blessed 
 ```
 
 ## Contributors
