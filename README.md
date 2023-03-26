@@ -1,7 +1,7 @@
 # Printf
-````c
+```c
 This project was done by Friday Blessed & Gabriel Tibi
-````
+```
 
 ## Contributors
 - [Gabriel Tibi ](https://github.com/Gabeytech)
