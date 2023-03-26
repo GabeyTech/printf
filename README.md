@@ -2,6 +2,10 @@
 ````c
 This project was done by Friday Blessed & Gabriel Tibi
 ````
+
+## Contributors
+- [Gabriel Tibi ](https://github.com/Gabeytech)
+- [Friday Blessed ](https://github.com/Blessedfriday007)
 # Printf.
 ```` c
 int printf ( const char * format, ... );
