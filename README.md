@@ -1,5 +1,5 @@
 # Printf
-```` c
+````c
 This project was done by Friday Blessed & Gabriel Tibi
 ````
 # Printf.
@@ -38,3 +38,30 @@ int print_char(va_list c);/*writes the character c to stdout */
 int print_string(va_list s);/*writes the character c to stdout */
 int print_int(va_list i);/*function that prints an integer */
 int print_dec(va_list d);/* function that prints an decimal*/
+
+### Complilation
+All of the ``.c`` files along with a main.c file are to be compiled with ``gcc 4.8.4`` on Ubuntu 14.04 LTS with the flags ``-Wall Werror`` ``-Westra`` and ``-pedantic.``
+
+The files will be compiled this way:
+- ``gcc -Wall -Werror -Wextra -pedantic *.c``
+#### Use.
+In the ``main.c`` file, use the ``_printf`` function like so:
+```c
+#include "holberton.h"
+/**
+ * main - main function of program
+ * Return: always 0
+ */
+int main(void)
+{
+	int num;
+	char *string;
+	
+	num = 98;
+	string = "Hello, Holberon!"
+	_printf("%s is %i.\n", string, num);
+	return (0);
+}
+```
+```{bash}
+linux>$  gcc -Wall -Werror -Wextra -pedantic *.c -o 
