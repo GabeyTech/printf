@@ -32,7 +32,7 @@ Write a function that produces output according to a format.
 Handle the following conversion specifiers:
 -- ``d``
 --``i``
-### [Man_3_printf.](https://photos.app.goo.gl/pY1W7jWLFGHLPa3S6)
+
 ## Functions we use.
 
 ````c
