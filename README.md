@@ -7,7 +7,7 @@ This project was done by Friday Blessed & Gabriel Tibi
 - [Gabriel Tibi ](https://github.com/Gabeytech)
 - [Friday Blessed ](https://github.com/Blessedfriday007)
 # Printf.
-````
+```` c
 int printf ( const char * format, ... );
 ````
 This is the first group project that we have at ALX africa which consists of replicating the **[printf (3)](http://man7.org/linux/man-pages/man3/printf.3.html)** function of language c, calling it this way **_printf.**
